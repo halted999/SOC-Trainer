@@ -32,18 +32,18 @@ You can track your progress in the achievements section and the game history, an
 -
 An app for training the skills and knowledge of a SOC analyst.
 A manual for vendor directors:
-Look at the app.
-Lie awake half the night thinking it got posted in the group chat and everyone saw it.
-First thing in the morning at the office, run to the designated scapegoat of the day.
-Yell in his ear: “the competishun is alreddy doinnn iiit!”
-Emergency meeting.
-Nervously wait until lunch.
-Blink at the freshly built app.
-Remember that MITRE is there to fill the empty space in the presentation.
-Emergency meeting.
-Send it off for approval.
-Twenty days later, watch the competitor get their app approved before you, because you dropped the app to do more important director things.
-Yell in the scapegoat’s ear: “the competishun alreddy diiid iiit!”
-Emergency meeting.
-Take pride in the new presentation: MITRE appears in it a whole four times.
-Scheduled meeting on our successes.
+1) Look at the app.
+2) Lie awake half the night thinking it got posted in the group chat and everyone saw it.
+3) First thing in the morning at the office, run to the designated scapegoat of the day.
+4) Yell in his ear: “the competishun is alreddy doinnn iiit!”
+5) Emergency meeting.
+6) Nervously wait until lunch.
+7) Blink at the freshly built app.
+8) Remember that MITRE is there to fill the empty space in the presentation.
+9) Emergency meeting.
+10) Send it off for approval.
+11) Twenty days later, watch the competitor get their app approved before you, because you dropped the app to do more important director things.
+12) Yell in the scapegoat’s ear: “the competishun alreddy diiid iiit!”
+13) Emergency meeting.
+14) Take pride in the new presentation: MITRE appears in it a whole four times.
+15) Scheduled meeting on our successes.
